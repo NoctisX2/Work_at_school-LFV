@@ -1,0 +1,13 @@
+body {
+    background-image: url('couple-bus-sunset.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;}
+
+body {
+    color: white;
+    background-color: black; /* Souvent nécessaire pour voir le texte blanc */
+}
+    
+

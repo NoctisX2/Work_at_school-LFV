@@ -1,0 +1,11 @@
+body {
+    background-image: url('t0mhq0z0g3pg1.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;}
+
+body {
+    color: white;
+    background-color: black; /* Souvent nécessaire pour voir le texte blanc */
+}
